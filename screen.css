@@ -1,1 +1,15 @@
 /* Add screen styles below */
+body {
+    background: #0B0014;
+}
+
+div {
+    background: #F5E9E2;
+    color: #0B0014;
+    margin: 0 auto;
+    width: 500px;
+}
+
+h1 {
+    background: #a18c1d;
+}
