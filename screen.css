@@ -1,13 +1,13 @@
 /* Add screen styles below */
 body {
-    background: #2a3d45;
+    background: #131b23;
     margin-top: 100px;
     font-family: "helvetica";
 }
 
 .card {
-    background: #e0d3de;
-    color: #2a3d45;
+    background: #e9f1f7;
+    color: #131b23;
     margin: 0 auto;
     width: 500px;
     height: 300px;
@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-    background: #c5b141;
+    background: #2274a5;
     padding: 20px;
     margin: 0;
     border-radius: 20px 20px 0 0;
@@ -33,8 +33,7 @@ h1 {
 img {
     float: left;
     margin-right: 20px;
-    border: 2px solid #2a3d45;
-    background: #7a6c5d;
+    border: 2px solid #131b23;
 }
 
 ul {
