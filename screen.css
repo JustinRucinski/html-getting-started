@@ -1,13 +1,13 @@
 /* Add screen styles below */
 body {
-    background: #0B0014;
+    background: #2a3d45;
     margin-top: 100px;
     font-family: "helvetica";
 }
 
 .card {
-    background: #F5E9E2;
-    color: #0B0014;
+    background: #e0d3de;
+    color: #2a3d45;
     margin: 0 auto;
     width: 500px;
     height: 300px;
@@ -20,13 +20,23 @@ body {
 }
 
 h1 {
-    background: #a18c1d;
+    background: #c5b141;
     padding: 20px;
     margin: 0;
     border-radius: 20px 20px 0 0;
 }
 
+#occupation{
+    font-style: italic; 
+}
+
 img {
     float: left;
     margin-right: 20px;
+    border: 2px solid #2a3d45;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside;
 }
